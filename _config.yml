@@ -1,0 +1,2 @@
+# Ensure the site is served with https and without 'www'
+url: "https://jacobcammack.com"
